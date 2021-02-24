@@ -1,0 +1,50 @@
+#maincard{
+width:40rem;
+height:20rem;
+background-color:#f2efea;
+margin-right:auto;
+margin-left:auto;
+box-shadow: 0 .2rem .5rem 0 rgba(0,0,0,.2), 0 .3rem 1.2rem 0 rgba(0,0,0,.19);
+ border-radius:3%
+}
+
+#textbox{
+  width:38rem;
+  height:18rem;
+  position:relative;
+  margin-right:auto;
+  margin-left:auto;
+  top:7.5rem;
+
+}
+
+#halwa{
+ font-size:1.2rem;
+ font-family:Arial;
+  color:#88bb92
+
+}
+
+#clicker{
+  background-color:#21d19f;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	padding:10px 47px;
+	text-decoration:none;
+  cursor:pointer;
+  margin-right:auto;
+  margin-left:auto;
+}
+#clicker:focus{
+  outline:0;
+}
+#buttonbox{
+  position:relative;
+  left:37rem;
+  top:2rem;
+}
